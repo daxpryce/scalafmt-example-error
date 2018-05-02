@@ -1,0 +1,8 @@
+Example of a bug in Scalafmt
+========================
+
+Note that this may not actually be a bug, as one of the contributors to Scalafmt was unable to reproduce.  The existence of this repository is to allow others to experience what I'm experiencing - or maybe isolate a problem to some sort of system issue rather than a direct scalafmt issue.
+
+Problem is apparent on a pretty fresh install of Linux Mint 18.3 "Sylvia".  
+
+Tested using scalafmt 1.5.1 installed via coursier as well as via the gradle spotless plugin that also uses scalafmt 1.5.1.
